@@ -141,6 +141,21 @@
  '(erc-default-face ((t (:foreground "#b2d7ff"))))
  '(erc-action-face ((t (:foreground "LightGrey"))))
  '(erc-button ((t (:foreground "cyan" :underline t))))
+ ;; org customizations
+ '(org-block ((t (:background "SteelBlue"))))
+ '(org-block-begin-line ((t (:foreground "white" :underline t))))
+ '(org-block-end-line ((t (:foreground "white" :overline t))))
+ '(org-table ((t (:foreground "white" :background "CadetBlue"))))
+ '(org-level-1 ((t (:weight bold :overline "yellow" :foreground "yellow" :background "magenta"))))
+ '(org-level-2 ((t (:height 1.0 :weight bold :overline "yellow" :foreground "yellow" :background "DarkTurquoise"))))
+ '(org-level-3 ((t (:height 1.0 :weight bold :overline "DarkGreen" :foreground "DarkGreen" :background "LightGray"))))
+ '(org-level-4 ((t (:height 1.0 :weight bold :slant normal :overline "#EA6300" :foreground "#EA6300"))))
+ '(org-level-5 ((t (:height 1.0 :weight bold :slant normal :overline "#E3258D" :foreground "#E3258D"))))
+ '(org-level-6 ((t (:height 1.0 :weight bold :slant italic :overline "#0077CC" :foreground "#0077CC"))))
+ '(org-level-7 ((t (:height 1.0 :weight bold :slant italic :overline "#2EAE2C" :foreground "#2EAE2C"))))
+ '(org-level-8 ((t (:height 1.0 :weight bold :slant italic :overline "#FD8008" :foreground "#FD8008"))))
+ '(org-document-info-keyword ((t (:background "#008ED1" :foreground "#EAEAFF"))))
+ '(org-meta-line ((t (:slant normal :background "#008ED1" :foreground "#EAEAFF"))))
  )
  
 
